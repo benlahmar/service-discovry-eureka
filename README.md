@@ -1,1 +1,0 @@
-# service-discovry-eureka
